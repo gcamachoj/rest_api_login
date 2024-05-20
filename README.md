@@ -20,7 +20,6 @@ Archivo app.js: COntiene la configuración de la aplicación y la conexión con 
 
 
 # Estructura de carpetas:
-# =======================
 
 ## Models:   Contiene los modelos Login.js y User.js
 ## Routes:   Contiene las rutas y configuraciones de user y login
