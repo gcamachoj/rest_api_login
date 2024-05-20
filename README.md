@@ -13,10 +13,9 @@ Se debe crear el proyecto utilizando herramientas de versionamiento.
   - Express          Backend
   - Mongo Altas db:  Base de datos remota para pruebas
 
-# El trabajo contiene:
 
-Archivo app.js: COntiene la configuración de la aplicación y la conexión con la base de datos Mongo
-
+## Archivo app.js: 
+Contiene la configuración de la aplicación y la conexión con la base de datos Mongo
 
 
 # Estructura de carpetas:
