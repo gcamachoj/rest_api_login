@@ -7,3 +7,21 @@ una contraseña, si la autenticación es correcta saldrá un mensaje de autentic
 contrario debe devolver error en la autenticación. 
 El código debe contener comentarios 
 Se debe crear el proyecto utilizando herramientas de versionamiento.
+
+# Frameworks
+  - Node Js          Backend
+  - Express          Backend
+  - Mongo Altas db:  Base de datos remota para pruebas
+
+# El trabajo contiene:
+
+Archivo app.js: COntiene la configuración de la aplicación y la conexión con la base de datos Mongo
+
+
+
+# Estructura de carpetas:
+# =======================
+
+## Models:   Contiene los modelos Login.js y User.js
+## Routes:   Contiene las rutas y configuraciones de user y login
+
